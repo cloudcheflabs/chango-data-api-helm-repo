@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   chango-data-api:
   - apiVersion: v2
+    appVersion: 1.7.0
+    created: "2023-06-03T08:01:40.506523723Z"
+    description: chango data api
+    digest: c43616376611df42307ca1493eae78711f1489b92f082a2f99a2375ffffcfc20
+    name: chango-data-api
+    urls:
+    - chango-data-api-v1.6.0.tgz
+    version: v1.6.0
+  - apiVersion: v2
     appVersion: 1.6.0
-    created: "2023-06-03T06:56:18.393257537Z"
+    created: "2023-06-03T08:01:40.506149718Z"
     description: chango data api
     digest: a95308cdad4c75a57dbafa006140a49c12817f4f52487820ebe6616dbe83401e
     name: chango-data-api
@@ -12,7 +21,7 @@ entries:
     version: v1.5.0
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2023-06-03T06:56:18.391995898Z"
+    created: "2023-06-03T08:01:40.505758491Z"
     description: chango data api
     digest: 3ac81939a5506ea71dac5fc6df12255fcc1d236990d651a5540c229cb1dc71ee
     name: chango-data-api
@@ -21,7 +30,7 @@ entries:
     version: v1.4.2
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2023-06-03T06:56:18.391597638Z"
+    created: "2023-06-03T08:01:40.505409292Z"
     description: chango data api
     digest: 3dcaea4f48aa1a0f97936ddb4963573a31534270045560c317d2b2faee90746b
     name: chango-data-api
@@ -30,7 +39,7 @@ entries:
     version: v1.4.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2023-06-03T06:56:18.391215156Z"
+    created: "2023-06-03T08:01:40.505077316Z"
     description: chango data api
     digest: abd93474c7a885fef344b76acb620a2738666996048c43b35ed7a691f5b97a96
     name: chango-data-api
@@ -39,7 +48,7 @@ entries:
     version: v1.4.0
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2023-06-03T06:56:18.390846231Z"
+    created: "2023-06-03T08:01:40.504708221Z"
     description: chango data api
     digest: b8b573cbbcbd532920d353b2112fe5003c163a06f38507e4090d02862eda59f3
     name: chango-data-api
@@ -48,7 +57,7 @@ entries:
     version: v1.3.0
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2023-06-03T06:56:18.390485451Z"
+    created: "2023-06-03T08:01:40.504344525Z"
     description: chango data api
     digest: ffe17d5e181b323b3d2be161a5ecf1311dd0b2f745d727586eeb76f2070ea64d
     name: chango-data-api
@@ -57,7 +66,7 @@ entries:
     version: v1.2.0
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-06-03T06:56:18.390154778Z"
+    created: "2023-06-03T08:01:40.504004444Z"
     description: chango data api
     digest: 81240b75cfb7cb4146b4f1ae485f699a94a6443612e6651d6244682af67f56c6
     name: chango-data-api
@@ -66,11 +75,11 @@ entries:
     version: v1.1.0
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-06-03T06:56:18.389638424Z"
+    created: "2023-06-03T08:01:40.503618216Z"
     description: chango data api
     digest: 56346c77296a4ba6166fbfab915d18939133bbdcc7ed2f688a650da695431ea2
     name: chango-data-api
     urls:
     - chango-data-api-v1.0.0.tgz
     version: v1.0.0
-generated: "2023-06-03T06:56:18.388896776Z"
+generated: "2023-06-03T08:01:40.503171644Z"
